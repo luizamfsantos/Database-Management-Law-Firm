@@ -36,7 +36,7 @@ The repository is structured as follows:
 |-- config/
 |   |-- database_config.txt
 |-- images/
-|   |-- database_flow_chart.jpg
+|   |-- database_flow_chart.png
 ```
 
 - `sql_scripts/` directory contains SQL scripts for creating tables, inserting data, querying data, and updating data.
