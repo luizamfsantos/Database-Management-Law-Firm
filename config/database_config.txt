@@ -1,0 +1,19 @@
+# Database Configuration
+
+# Database type (e.g., mysql, postgresql, sqlite)
+DB_TYPE = 
+
+# Database host (e.g., localhost, 127.0.0.1)
+DB_HOST = 
+
+# Database port (e.g., 3306 for MySQL)
+DB_PORT = 
+
+# Database name
+DB_NAME = 
+
+# Database username
+DB_USER = 
+
+# Database password
+DB_PASSWORD = 
