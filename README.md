@@ -45,7 +45,7 @@ The repository is structured as follows:
 
 ## Database Flow Chart
 
-![Database Flow Chart](images/database_flow_chart.jpg)
+![Database Flow Chart](images/database_flow_chart.png)
 
 
 ## Contributing
